@@ -11,8 +11,6 @@ This project provides the skeleton of a "Gym Management" REST web application us
 * __account__ - A table containing gym membership accounts. There is a many-to-one relationship between accounts and locations.
 * __member__ - A table containing the members of accounts.  There is a many-to-one relationship between members and accounts.
 
-Use VS Code to edit your files and run the project.
-
 Verify your endpoints work by using Postman (https://www.postman.com/downloads/).  The app will listen on port 8080.
 
 ## Tasks to complete
